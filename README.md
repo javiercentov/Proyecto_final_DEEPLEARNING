@@ -1,13 +1,13 @@
 # Proyecto_final_DEEPLEARNING
-Resumen:
+# Resumen:
 Este repositorio documenta un portafolio técnico enfocado en cuatro arquitecturas esenciales de Deep Learning: CNNs, GANs, LSTMs, y Transformers. El objetivo es demostrar habilidades prácticas para implementar, entrenar, evaluar y comparar estos modelos en tareas representativas. Todo el flujo de trabajo está diseñado con un fuerte enfoque en la reproducibilidad, el control de versiones y la documentación profesional. 
-Objetivos Clave:
+# Objetivos Clave:
 El proyecto está diseñado para cumplir con los siguientes objetivos:
 Implementación Concreta: Implementar y comparar modelos concretos de cada familia (CNN, GAN, LSTM, Transformer).
 Ciclo de ML: Preparar datos, entrenar modelos, evaluar resultados y explicar las decisiones y hallazgos.
 Buenas Prácticas: Aplicar el control de versiones, el seguimiento de experimentos, la reproducibilidad y técnicas de visualización.
 Documentación Profesional: Elaborar un reporte técnico profesional (docs/report.md) que sirva como material de apoyo para entrevistas.
-Estructura:
+# Estructura:
 La organización del proyecto se adhiere a la estructura modular sugerida para separar el código interactivo, el código fuente reutilizable y los artefactos de la documentación.
 
 project-ml-portfolio/
